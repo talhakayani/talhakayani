@@ -33,15 +33,15 @@ As a senior resource, I have played a pivotal role in the development of Piqsol,
 
 ## Education
 
-- Bachelor of Science in Computer Science, [University Name](university-website)
-- Relevant courses: List any relevant courses or certifications that have contributed to your skillset.
+- Bachelor of Science in Computer Science, [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- Relevant courses: BS(SE) Bacholars in Software Engineering.
 
 ## Contact
 
 I'm open to collaboration and new opportunities. Feel free to reach out to me via the following channels:
 
-- GitHub: [Your GitHub Profile](link-to-github-profile)
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Email: [Your Email Address](mailto:your-email@example.com)
+- GitHub: [GitHub Profile](https://github.com/talhakayani)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/talha-kayani-26b688216/)
+- Email: [Email Address](mailto:talhakayani12@gmail.com)
 
 I look forward to connecting with you! Let's build something amazing together.
