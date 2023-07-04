@@ -40,8 +40,8 @@ As a senior resource, I have played a pivotal role in the development of Piqsol,
 
 I'm open to collaboration and new opportunities. Feel free to reach out to me via the following channels:
 
-- GitHub: [GitHub Profile](https://github.com/talhakayani)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/talha-kayani-26b688216/)
-- Email: [Email Address](mailto:talhakayani12@gmail.com)
+- GitHub: [talhakayani](https://github.com/talhakayani)
+- LinkedIn: [Talha Kayani](https://www.linkedin.com/in/talha-kayani-26b688216/)
+- Email: [talhakayani12@gmail.com](mailto:talhakayani12@gmail.com)
 
 I look forward to connecting with you! Let's build something amazing together.
